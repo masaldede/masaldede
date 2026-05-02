@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Bahadir 👋
 
-<!--
-**masaldede/masaldede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity consultant and entrepreneur based in Istanbul.
 
-Here are some ideas to get you started:
+I help organizations build security awareness programs that actually change employee behavior —
+not just tick compliance boxes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I focus on:**
+- Security awareness & phishing simulation
+- Dark web monitoring
+- Business continuity & disaster recovery
+
+📖 I wrote a book: [Outrun the Lion: Cybersecurity in the Age of Human Error](https://www.amazon.co.uk/dp/B0FKXPHH8K)
+
+🌐 [infolore.ai](https://www.infolore.ai)
+💼 [LinkedIn](https://www.linkedin.com/in/bahsahin/)
