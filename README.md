@@ -2,8 +2,7 @@
 
 Cybersecurity consultant and entrepreneur based in Istanbul.
 
-I help organizations build security awareness programs that actually change employee behavior —
-not just tick compliance boxes.
+I help organisations build security awareness programs that actually change employee behaviour, not just tick compliance boxes.
 
 **What I focus on:**
 - Security awareness & phishing simulation
